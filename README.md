@@ -24,11 +24,3 @@ Client
 Open the client/index.html file in a browser.
 
 Interact with the UI to test the WebSocket connection and authentication process.
-
-    node server.js
-
-Client
-
-Open the client/index.html file in a browser.
-
-Interact with the UI to test the WebSocket connection and authentication process.
