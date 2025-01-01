@@ -1,0 +1,11 @@
+{
+    "name": "task2-websocket",
+    "version": "1.0.0",
+    "description": "A project demonstrating ws authentication",
+    "scripts": {
+        "start-server": "node server/server.js"
+    },
+    "dependencies": {
+        "ws": "^8.18.0"
+    }
+}
