@@ -17,6 +17,7 @@ Install the required dependencies:
     npm install
 
 Start the server:    
+
     node server.js
 
 Client
