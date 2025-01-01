@@ -10,13 +10,6 @@ Install the required dependencies:
 
     npm install
 
-Navigate to the server directory:
-    cd server
-
-Install the required dependencies:
-
-    npm install
-
 Start the server:    
 
     node server.js
