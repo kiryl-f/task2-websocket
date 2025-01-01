@@ -14,6 +14,7 @@ Navigate to the server directory:
     cd server
 
 Install the required dependencies:
+
     npm install
 
 Start the server:    
